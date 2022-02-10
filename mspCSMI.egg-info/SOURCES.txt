@@ -1,9 +1,0 @@
-README.md
-setup.py
-mspCMSI/mspCMSI.py
-mspCSMI.egg-info/PKG-INFO
-mspCSMI.egg-info/SOURCES.txt
-mspCSMI.egg-info/dependency_links.txt
-mspCSMI.egg-info/entry_points.txt
-mspCSMI.egg-info/requires.txt
-mspCSMI.egg-info/top_level.txt
