@@ -11,7 +11,7 @@ setup(
    include_package_data=True,
    entry_points = {
       'console_scripts': [
-         'docopt = mspCMSI.mspCMSI:main'
+         'mspCSMI = mspCMSI.mspCMSI:main'
       ]
    }
 )

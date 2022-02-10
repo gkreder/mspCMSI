@@ -1,0 +1,3 @@
+[console_scripts]
+mspCSMI = mspCMSI.mspCMSI:main
+
