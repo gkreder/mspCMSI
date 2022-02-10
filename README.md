@@ -2,7 +2,9 @@
 
 
 
-## Usage v0.1
+## Usage 
+
+If you haven't installed the package (see installation section below) then the commands must be run from the mspCMSI/mspCSMI directory containing the code
 
 ### Create "Database"
 
